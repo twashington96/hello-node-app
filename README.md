@@ -4,10 +4,10 @@ this folder contains a demo node.js to get an HTTP response and read "Hello Worl
 
 **Set up node**
 1. Check for node in terminal: *node -v*: if a version is found continue.
-··* If not: download [node.js](https://nodejs.org/en/)
-··* Accept all defaults
-··* Confirm install with: **node -v**
-··* npm should be there too: **npm -v**
+··1 If not: download [node.js](https://nodejs.org/en/)
+··2 Accept all defaults
+··3 Confirm install with: **node -v**
+··4 npm should be there too: **npm -v**
 
 Set up vsCode
 1. Open a project workspace (create a folder)
