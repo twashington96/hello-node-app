@@ -17,7 +17,7 @@ Set up vsCode
 - file: test.js
 - terminal: npm init
 - terminal: npm i express
-- copy demo code from [here] (https://www.npmjs.com/package/express)
+- copy demo code from [here](https://www.npmjs.com/package/express)
 
 **Test code**
 - start your server: **$ node test.js**
