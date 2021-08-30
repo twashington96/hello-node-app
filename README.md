@@ -1,4 +1,4 @@
-# hello-node-app
+# hello-node-app README
 
 this folder contains a demo node.js to get an HTTP response and read "Hello World"
 
@@ -26,13 +26,13 @@ Set up vsCode
 **GitHub**
 - Sign into GitHub
 - start a repository
-··* Add a README
-··* Add .gitignore (Node)
-··* Choose a license: GNU General Public License v3.0
+    - Add a README
+    - Add .gitignore (Node)
+    - Choose a license: GNU General Public License v3.0
 
 - Drag & Drop files from node.js folder into repo
 
--Commit changes.
+- Commit changes.
 
 
 
